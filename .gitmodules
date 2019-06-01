@@ -1,0 +1,6 @@
+[submodule "mbed-os-5.12.4"]
+	path = mbed-os-5.12.4
+	url = https://github.com/ARMmbed/mbed-os.git
+[submodule "libSDP3x"]
+	path = libSDP3x
+	url = https://github.com/ATM-HSW/libSDP3x.git
