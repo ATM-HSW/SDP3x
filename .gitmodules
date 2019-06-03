@@ -1,6 +1,17 @@
+[submodule "mbed-os_v152"]
+	path = mbed-os_v152
+	url = https://github.com/ARMmbed/mbed-os.git
 [submodule "mbed-os-5.12.4"]
 	path = mbed-os-5.12.4
 	url = https://github.com/ARMmbed/mbed-os.git
 [submodule "libSDP3x"]
 	path = libSDP3x
 	url = https://github.com/ATM-HSW/libSDP3x.git
+[submodule "mbed-os_v152spez"]
+	path = mbed-os_v152spez
+	url = https://github.com/ohagendorf/mbed.git
+	branch = mbed-os-5.6.1_v152
+[submodule "mbed-os_v157"]
+	path = mbed-os_v157
+	url = https://github.com/ohagendorf/mbed.git
+	branch = mbed-os-5.6.7_v157
